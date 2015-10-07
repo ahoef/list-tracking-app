@@ -2,70 +2,70 @@ body {
 	font-family: $sans-serif;
 	background-image: url('../../images/wolf.jpeg');
 	background-size: cover;
-	background-repeat: no-repeat;
+	// background-repeat: no-repeat;
 	// color: $blackish;
 	// text-align: center;
-
-	// footer {
-	// 	position: fixed;
-	// 	bottom: 0;
-	// 	left: 0;
-	// 	right: 0;
-	// 	background-color: $white;
-	// 	opacity: 0.5;
-	// 	padding: 16px;
-	// 	.mini-footer a {
-	// 		font-size: 16px;
-	// 		&:hover {
-	// 			cursor: pointer;
-	// 		}
-	// 		.caret {
-	// 			padding-left: 15px;
-	// 			&:after {
-	// 				@include triangle;
-	// 				top: 22px;
-	//     			border: 7px solid transparent;
-	//     			border-color: $blackish transparent transparent;
-	// 			}
-	// 			&.up {
-	// 				&:after {
-	// 					border-bottom: 7px solid $blackish;
-	//     				border-top: 0px;
-	// 				}
-	// 			}
-	// 		}
-	// 	}
-	// 	.expanded-footer {
-	// 		position: relative;
-	// 		line-height: 26px;
-	// 		background-color: $white;
-	// 		color: $blackish;
-	// 		width: 55%;
-	// 		margin: 0 auto;
-	// 		font-size: 14px;
-	// 	}
-	// 	ul {
-	// 		padding-left: 0;
-	// 		list-style: none;
-	// 		margin-bottom: 0;
-	// 		li {
-	// 			display: inline-block;
-	// 			padding: 0 10px;
-	// 			font-size: 28px;
-	// 			&:last-child {
-	// 				font-size: 28px;
-	// 			}
-	// 		}
-	// 		a {
-	// 			text-decoration: none;
-	// 			color: $blackish;
-	// 		}
-	// 	}
-	// 	.closed {
-	// 		display: none;
-	// 	}
-	// 	.open {
-	// 		display: block;
-	// 	}
-	// }
 }
+
+// footer {
+// 	position: fixed;
+// 	bottom: 0;
+// 	left: 0;
+// 	right: 0;
+// 	background-color: $white;
+// 	opacity: 0.5;
+// 	padding: 16px;
+// 	.mini-footer a {
+// 		font-size: 16px;
+// 		&:hover {
+// 			cursor: pointer;
+// 		}
+// 		.caret {
+// 			padding-left: 15px;
+// 			&:after {
+// 				@include triangle;
+// 				top: 22px;
+//     			border: 7px solid transparent;
+//     			border-color: $blackish transparent transparent;
+// 			}
+// 			&.up {
+// 				&:after {
+// 					border-bottom: 7px solid $blackish;
+//     				border-top: 0px;
+// 				}
+// 			}
+// 		}
+// 	}
+// 	.expanded-footer {
+// 		position: relative;
+// 		line-height: 26px;
+// 		background-color: $white;
+// 		color: $blackish;
+// 		width: 55%;
+// 		margin: 0 auto;
+// 		font-size: 14px;
+// 	}
+// 	ul {
+// 		padding-left: 0;
+// 		list-style: none;
+// 		margin-bottom: 0;
+// 		li {
+// 			display: inline-block;
+// 			padding: 0 10px;
+// 			font-size: 28px;
+// 			&:last-child {
+// 				font-size: 28px;
+// 			}
+// 		}
+// 		a {
+// 			text-decoration: none;
+// 			color: $blackish;
+// 		}
+// 	}
+// 	.closed {
+// 		display: none;
+// 	}
+// 	.open {
+// 		display: block;
+// 	}
+// }
