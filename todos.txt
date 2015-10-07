@@ -1,0 +1,1 @@
+-clean up gulpfile to include only one watch
