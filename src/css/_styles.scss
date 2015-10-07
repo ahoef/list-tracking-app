@@ -1,10 +1,26 @@
 body {
 	font-family: $sans-serif;
-	background-image: url('../../images/wolf.jpeg');
+	background-image: url('../../images/slate.jpg');
 	background-size: cover;
+	color: $white;
 	// background-repeat: no-repeat;
 	// color: $blackish;
 	// text-align: center;
+
+	input {
+		color: $blackish;
+	}
+
+	.container {
+		max-width: 1260px;
+	    margin: 0 auto;
+	    padding: 0 3%;
+	}
+
+	&.dark {
+		color: $blackish;
+	}
+
 }
 
 // footer {

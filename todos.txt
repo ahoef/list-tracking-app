@@ -1,1 +1,2 @@
--clean up gulpfile to include only one watch
+-include more background photos
+-set up bg image rotation on page reload
